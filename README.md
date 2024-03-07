@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mugisha Pacifique
-- 👀 I’m interested in software development specifically full stack concerns.
+- 👀 I’m interested in software development specifically full stack sector.
 - 🌱 I’m currently learning react typescript, next js, python ...
-- 💞️ I’m looking to collaborate on the work concerning web development and designing.
+- 💞️ I’m looking forward to collaborating on the work concerning web development and designing 👌.
 - 📫 How to reach me Instagram:@Paci_fique_
                       G-mail   :@Pacifiquem58@gmail.com
                       Facebook:@Fique Og
