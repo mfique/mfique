@@ -1,7 +1,10 @@
 <h1 style="color: red">My names are Mugisha Pacifique, a software engineer well experienced in full stack as well as cybersecurity.</h1>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/--%237289DA.svg?logo=discord&logoColor=white)]() [![Facebook](https://img.shields.io/badge/--%231877F2.svg?logo=facebook&logoColor=white)]() [![Instagram](https://img.shields.io/badge/--%23E4405F.svg?logo=instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/--%230077B5.svg?logo=linkedin&logoColor=white)]() [![Stack Overflow](https://img.shields.io/badge/--%23FE7A16.svg?logo=stackoverflow&logoColor=white)]() [![X](https://img.shields.io/badge/--%23000000.svg?logo=x&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/--%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) 
+[![Instagram](https://img.shields.io/badge/--%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/paci_fique_/) 
+[![LinkedIn](https://img.shields.io/badge/--%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mugisha-pacifique-142b0931b/) 
+[![X](https://img.shields.io/badge/--%23000000.svg?logo=x&logoColor=white)](https://x.com/_fiquem)
 
 # 💻 Tech Stack:
 ### Languages
