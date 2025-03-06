@@ -1,4 +1,4 @@
-<h1 style="color: red">Innovating through code | Cybersecurity & AI Enthusiast | Let's build the future together!</h1>
+<h1 style="color: red">Innovating through code | Cybersecurity | A.Intelligency | Let's build the future together!</h1>
 
 ###  Socials:       [![Discord](https://img.shields.io/badge/--%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/--%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/paci_fique_/)[![X](https://img.shields.io/badge/--%23000000.svg?logo=x&logoColor=white)](https://x.com/_fiquem)
 
